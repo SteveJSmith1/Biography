@@ -8,7 +8,9 @@ Statistics geek who who enjoys hacking and implementing models to analyse data f
 or numerical data.
 Currently playing with django for fun.
 
+***Available for hire***
 
-***Freelance remote working offers always gratefully received.***
+*Freelance remote working or offers of work in Nottingham, Sheffield or the
+surrounding areas always gratefully received.*
 
 
