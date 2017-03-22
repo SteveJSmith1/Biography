@@ -1,12 +1,14 @@
-# hello-world
-Tutorial1
+# Hi Humans (and bots)!
 
-Hi Humans (and bots)!
+*Ex-lecturer in Mathematics trying less-altruistic ways to make a living.*
 
-Steve here, I enjoy the delights of Python.
-I enjoy working with nltk to analyse text in a variety of forms.
-I also enjoy working with pandas and numpy to analyse numerical data.
-Ex-lecturer in Mathematics trying less-altruistic ways to make a living.
+I enjoy the delights of Python.
 
-Freelance remote working offers always gratefully received.
+Statistics geek who who enjoys hacking and implementing models to analyse data from written text 
+or numerical data.
+Currently playing with django for fun.
+
+
+***Freelance remote working offers always gratefully received.***
+
 
